@@ -1,6 +1,6 @@
 ## Hi there I'm Muchori! 👋
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=Muchori&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Muchori&show_icons=true&theme=radical"/>
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muchori&layout=compact"/>
 
 
