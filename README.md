@@ -1,8 +1,7 @@
 ### Hi there I'm Muchori! 👋
 
 ### A Passionate Android Dev 
-Well, I’ve been working on mobile app development, while still studying at college. Had my own projects, coded mostly in Kotlin, Java and Python. 
-I am an Android junior dev and programmer passionate about software development, user experience, and bringing meaning to the world of Android through innovative designs and user friendly apps. I also enjoy improving my skills by learning new skills and applying them to new projects. Most of all, I strive to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products.
+Well, I’ve been working on mobile app development. Had my own projects, coded mostly in Kotlin, Java and Python. I am an Android junior dev and passionate about software development, user experience.
 
 * 📱 Working on mobile apps 
 * Python APIs
@@ -38,5 +37,5 @@ I am an Android junior dev and programmer passionate about software development,
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchori&layout=compact"/>
 
 
-## Projects 👇
+## Projects ❤️ 👇
 
