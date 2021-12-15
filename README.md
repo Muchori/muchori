@@ -20,8 +20,9 @@ I am an Android junior dev and programmer passionate about software development,
 <img align="right" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 <img align="right" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 
-<p float="left">
-  
+## Let's connect via 👇
+
+<p float="left">  
   <a href="https://twitter.com/iammuchori" title="Redirect to Twitter">
     <img src="/assets/twitter.png" width="120" alt="Twitter" />
   </a>
@@ -29,7 +30,6 @@ I am an Android junior dev and programmer passionate about software development,
   <a href="https://dev.to/muchori" title="Redirect to Dev.To">
     <img src="/assets/dev.png" width="120" alt="Dev.To" />
   </a>
-
 </p>
 
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchori&layout=compact"/>
