@@ -32,7 +32,7 @@ Well, I’ve been working on mobile app development. Had my own projects, coded 
   </a> -->
 </p>
 
-## Current languages 👇
+## Worked with 👇
 
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchori&layout=compact"/>
 
