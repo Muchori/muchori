@@ -1,4 +1,4 @@
-### Hi there I'm Muchori! 👋
+### Hi there 👋 I'm Muchori! 
 
 ### A Passionate Android Dev 
 Well, I’ve been working on mobile app development. Had my own projects, coded mostly in Kotlin, Java and Python. I am an Android junior dev and passionate about software development, user experience.
