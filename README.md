@@ -27,9 +27,9 @@ Well, I’ve been working on mobile app development. Had my own projects, coded 
     <img src="/assets/twitter.png" width="120" alt="Twitter" />
   </a>
 
-  <a href="https://dev.to/muchori" title="Redirect to Dev.To">
+ <!-- <a href="https://dev.to/muchori" title="Redirect to Dev.To">
     <img src="/assets/dev.png" width="120" alt="Dev.To" />
-  </a>
+  </a> -->
 </p>
 
 ## Current languages 👇
