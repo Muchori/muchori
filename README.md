@@ -29,7 +29,7 @@ Well, I’ve been working on mobile app development. Had my own projects, coded 
 
  <!-- <a href="https://dev.to/muchori" title="Redirect to Dev.To">
     <img src="/assets/dev.png" width="120" alt="Dev.To" />
-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
+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
   </a> -->
 </p>
 
