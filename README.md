@@ -20,6 +20,7 @@ Well, I’ve been working on mobile app development. Had my own projects, coded 
 <img align="right" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 <img align="right" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 
+
 ## Let's connect via 👇
 
 <p float="left">  
@@ -35,7 +36,12 @@ Well, I’ve been working on mobile app development. Had my own projects, coded 
 ## Worked with 👇
 
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchori&layout=compact"/>
-
+<!-- <a href="https://github.com/muchori/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=muchori&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/muchori/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=muchori&repo=convoychat" />
+</a> -->
 
 ## Projects ❤️ 👇
 
