@@ -3,14 +3,14 @@
 ### A Passionate Android Dev 
 Well, I’ve been working on mobile app development. Had my own projects, coded mostly in Kotlin, Java and Python. I am an Android junior dev and passionate about software development and user experience.
 
-* 📱 Working on mobile apps 
-* Python APIs
+* 📱 Working on mobile and Web Apps
+* REST APIs
 * 📝 Open Source Contributor
 * 💌 Available for your next project
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muchori&count_private=true&show_icons=true&include_all_commits=true" alt="Muchori JOseph" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muchori&count_private=true&show_icons=true&include_all_commits=true" alt="Muchori Joseph" />
 </details>
 
 ##
