@@ -35,7 +35,7 @@ Well, I’ve been working on mobile app development. Had my own projects, coded 
 
 ## Worked with 👇
 
-<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchori&layout=compact"/>
+<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muchori&layout=compact&theme=buefy&hide_border=true"/>
 <!-- <a href="https://github.com/muchori/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=muchori&repo=github-readme-stats" />
 </a>
