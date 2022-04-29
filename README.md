@@ -10,7 +10,7 @@ Well, I’ve been working on mobile app development. Had my own projects, coded 
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muchori&count_private=true&show_icons=true&include_all_commits=true" alt="Muchori Joseph" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muchori&show_icons=true&include_all_commits=true" alt="Muchori Joseph" />
 </details>
 
 ##
