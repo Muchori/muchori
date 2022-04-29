@@ -7,14 +7,9 @@ Well, I’ve been working on mobile app development. Had my own projects, coded 
 * REST APIs
 * 📝 Open Source Contributor
 * 💌 Available for your next project
+<!-- ## Worked with 👇 -->
 
-<!-- <details>
-  <summary><b>📊 Github Stats</b></summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muchori&show_icons=true&include_all_commits=true" alt="Muchori Joseph" />
-</details> -->
-## Worked with 👇
-
-<a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muchori&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muchori's github stats" /></a> | <a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchori&layout=compact&theme=buefy&hide_border=true" /></a> 
+|  <a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muchori&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muchori's github stats" /></a> | <a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchori&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 ##
 
@@ -30,21 +25,7 @@ Well, I’ve been working on mobile app development. Had my own projects, coded 
   <a href="https://twitter.com/iammuchori" title="Redirect to Twitter">
     <img src="/assets/twitter.png" width="120" alt="Twitter" />
   </a>
-
- <!-- <a href="https://dev.to/muchori" title="Redirect to Dev.To">
-    <img src="/assets/dev.png" width="120" alt="Dev.To" />
-  </a> -->
 </p>
-
-<!-- ## Worked with 👇
-
-<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muchori&layout=compact&theme=buefy&hide_border=true"/> -->
-<!-- <a href="https://github.com/muchori/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=muchori&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/muchori/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=muchori&repo=convoychat" />
-</a> -->
 
 ## Projects ❤️ 👇
 
