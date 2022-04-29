@@ -1,13 +1,12 @@
 ### Hi there 👋 Muchori Here! 
 
 ### A Passionate Software Developer 
-Well, I’ve been working on mobile app development. Had my own projects, coded mostly in Kotlin, Java and Python. I am an Android junior dev and passionate about software development and user experience.
+Well, I’ve been working on mobile app development. Had my own projects, coded mostly in Kotlin and Python. I am an Android junior dev and passionate about software development and user experience. Learning Typescript and I love it.
 
 * 📱 Working on Mobile and Web Development
 * REST APIs
 * 📝 Learning Open Source Contribution
 * 💌 Available for your next project
-<!-- ## Worked with 👇 -->
 
 |  <a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muchori&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muchori's github stats" /></a> | <a               href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchori&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
