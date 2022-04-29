@@ -1,7 +1,7 @@
 ### Hi there 👋 Muchori Here! 
 
 ### A Passionate Software Developer 
-Well, I’ve been working on mobile app development. Had my own projects, coded mostly in Kotlin and Python. I am an Android junior dev and passionate about software development and user experience. Learning Typescript and I love it.
+Well, I’ve been working on mobile app development. Had my own projects, coded mostly in Kotlin and Python. I am an Android junior dev and passionate about software development and user experience. Learning Typescript atm.
 
 * 📱 Working on Mobile and Web Development
 * REST APIs
