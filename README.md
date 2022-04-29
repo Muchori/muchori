@@ -8,10 +8,13 @@ Well, I’ve been working on mobile app development. Had my own projects, coded 
 * 📝 Open Source Contributor
 * 💌 Available for your next project
 
-<details>
+<!-- <details>
   <summary><b>📊 Github Stats</b></summary>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muchori&show_icons=true&include_all_commits=true" alt="Muchori Joseph" />
-</details>
+</details> -->
+## Worked with 👇
+
+<a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muchori&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muchori's github stats" /></a> | <a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchori&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 ##
 
@@ -33,9 +36,9 @@ Well, I’ve been working on mobile app development. Had my own projects, coded 
   </a> -->
 </p>
 
-## Worked with 👇
+<!-- ## Worked with 👇
 
-<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muchori&layout=compact&theme=buefy&hide_border=true"/>
+<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muchori&layout=compact&theme=buefy&hide_border=true"/> -->
 <!-- <a href="https://github.com/muchori/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=muchori&repo=github-readme-stats" />
 </a>
