@@ -9,7 +9,8 @@ Well, I’ve been working on mobile app development. Had my own projects, coded 
 * 💌 Available for your next project
 <!-- ## Worked with 👇 -->
 
-|  <a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muchori&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muchori's github stats" /></a> | <a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchori&layout=compact&theme=buefy&hide_border=true" /></a> |
+|  <a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muchori&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muchori's github stats" /></a> | <a               href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchori&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ##
 
