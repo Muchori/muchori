@@ -3,9 +3,9 @@
 ### A Passionate Software Developer 
 Well, I’ve been working on mobile app development. Had my own projects, coded mostly in Kotlin, Java and Python. I am an Android junior dev and passionate about software development and user experience.
 
-* 📱 Working on mobile and Web Apps
+* 📱 Working on Mobile and Web Development
 * REST APIs
-* 📝 Open Source Contributor
+* 📝 Learning Open Source Contribution
 * 💌 Available for your next project
 <!-- ## Worked with 👇 -->
 
