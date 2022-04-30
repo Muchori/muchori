@@ -1,7 +1,7 @@
 ### Hi there 👋 Muchori Here! 
 
 ### A Passionate Software Developer 
-Well, I’ve been working on mobile app development. Had my own projects, coded mostly in Kotlin and Python. I am an Android junior dev and passionate about software development and user experience. Learning Typescript atm.
+I am a Mid-Level Developer and passionate about software development and user experience. A passionate learner.
 
 * 📱 Working on Mobile and Web Development
 * REST APIs
@@ -23,5 +23,4 @@ Well, I’ve been working on mobile app development. Had my own projects, coded 
 
 <a href="https://twitter.com/iammuchori">
   <img align="right" alt="Muchori | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-
-
+</a>
