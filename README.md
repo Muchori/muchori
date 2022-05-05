@@ -14,6 +14,16 @@ I am a Mid-Level Developer and passionate about software development and user ex
 ##
 
 <!--START_SECTION:waka-->
+
+```text
+Python       19 hrs 18 mins  ██████████████████▓░░░░░░   74.17 %
+Kotlin       1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+YAML         1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Docker       1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Git Config   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+XML          31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+```
+
 <!--END_SECTION:waka-->
 
 
