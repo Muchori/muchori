@@ -12,9 +12,11 @@ I am a Mid-Level Developer and passionate about software development and user ex
 | ------------- | ------------- |
 
 ##
-
+|
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+| ------------- | ------------- |
 
 ##
 
