@@ -1,4 +1,3 @@
-
 name: Waka Readme
 
 on:
@@ -9,10 +8,9 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repos README
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: Muchori/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
