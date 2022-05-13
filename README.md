@@ -8,7 +8,7 @@ I am a Mid-Level Developer and passionate about software development and user ex
 * 📝 Learning Open Source Contribution
 * 💌 Available for your next project
 
-|  <a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muchori&show_icons=true&include_all_commits=true&hide&count_private=true&theme=buefy&hide_border=true" alt="Muchori's github stats" /></a> | <a               href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchori&layout=compact&theme=buefy&hide_border=true" /></a> |
+|  <a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Muchori&show_icons=true&include_all_commits=true&hide&count_private=true&theme=buefy&hide_border=true" alt="Muchori's github stats" /></a> | <a               href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muchori&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ##
