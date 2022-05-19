@@ -26,7 +26,7 @@ I am a Mid-Level Developer and passionate about software development and user ex
 
 
 <a href="https://twitter.com/iammuchori">
-  <img align="right" alt="Muchori | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="Muchori | Twitter" width="21px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <img align="right" src ="https://komarev.com/ghpvc/?username=muchori&color=00ADFE">
 
