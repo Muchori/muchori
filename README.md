@@ -31,7 +31,7 @@ I am a Mid-Level Developer and passionate about software development and user ex
 
 
 
-<img align="right" src ="https://komarev.com/ghpvc/?username=muchori&color=00ADFE">
+<!-- <img align="right" src ="https://komarev.com/ghpvc/?username=muchori&color=00ADFE"> -->
 <!-- <a href="https://twitter.com/iammuchori">
   <img align="right" alt="Muchori | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a> -->
