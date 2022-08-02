@@ -15,8 +15,6 @@ I am passionate about software development and user experience. A learner.
 
 ##
 
-
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
