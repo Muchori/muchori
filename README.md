@@ -1,6 +1,6 @@
 ### Hi there 👋 Muchori Here! 
 
-### A Passionate Software Developer 
+## A Passionate Software Developer 
 I am passionate about software development and user experience. A learner.
 
 * 📱 Working on Mobile and Web Development
