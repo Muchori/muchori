@@ -17,6 +17,20 @@ I am passionate about software development and user experience. A learner.
 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 23 April 2022 - To: 05 September 2022
+
+Total Time: 412 hrs 31 mins
+
+Kotlin                 147 hrs 4 mins  >>>>>>>>>----------------   35.65 %
+JavaScript             105 hrs 3 mins  >>>>>>-------------------   25.47 %
+XML                    58 hrs 13 mins  >>>>---------------------   14.11 %
+Python                 36 hrs 42 mins  >>-----------------------   08.90 %
+SCSS                   13 hrs 16 mins  >------------------------   03.22 %
+TypeScript             8 hrs 49 mins   >------------------------   02.14 %
+```
+
 <!--END_SECTION:waka-->
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
