@@ -1,7 +1,8 @@
 ### Hi there 👋  
 
 I'm Muchori a passionate about software developer. A learner. I break and build stuffs.
-Fun fact. You won't like it.
+
+Unsatisfied with constant time, Jeff Dean created the world's first O(1/N) algorithm
 
 * 📱 Working on Mobile and Web Development
 * REST APIs
