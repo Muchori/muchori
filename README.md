@@ -20,7 +20,7 @@ When Jeff Dean designs software, he first codes the binary and then writes the s
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2022 - To: 08 September 2022
+From: 23 April 2022 - To: 09 September 2022
 
 Total Time: 418 hrs 5 mins
 
