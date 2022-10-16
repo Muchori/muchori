@@ -5,7 +5,7 @@ I'm Muchori a passionate about software developer. A learner. I break and build 
 When Jeff Dean designs software, he first codes the binary and then writes the source as documentation.
 
 * 📱 Working on Mobile and Web Development
-* REST APIs
+*  Back-End Development $ REST APIs
 * 📝 Learning Open Source Contribution
 * 💌 Available for your next project
 
