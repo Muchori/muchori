@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-I'm Muchori a passionate about software Engineer. A learner. I break and build stuffs.
+I'm Muchori a passionate about Software Engineer. A learner. I break and build stuffs.
 
 When Jeff Dean designs software, he first codes the binary and then writes the source as documentation.
 
