@@ -13,8 +13,6 @@ When Jeff Dean designs software, he first codes the binary and then writes the s
 | ------------- | ------------- |-->
 ##
 
-
-
  <a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Muchori&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Muchori's github stats" /></a>
 
 ##
