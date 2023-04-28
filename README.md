@@ -10,7 +10,6 @@ When Jeff Dean designs software, he first codes the binary and then writes the s
 * 💌 Available for your next project
 
 <!-- |  <a href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Muchori&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Muchori's github stats" /></a> | <a               href="https://github.com/muchori/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muchori&layout=compact&theme=buefy&hide_border=true" /></a> | 
-nFF&%4p13*Ai
 | ------------- | ------------- |-->
 ##
 
