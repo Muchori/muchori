@@ -19,7 +19,7 @@ When Jeff Dean designs software, he first codes the binary and then writes the s
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 1,047 hrs 5 mins
 
 TypeScript                 266 hrs 33 mins >>>>>>-------------------   25.46 %
