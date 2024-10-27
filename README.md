@@ -20,13 +20,13 @@ When Jeff Dean designs software, he first codes the binary and then writes the s
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,948 hrs 56 mins
+Total Time: 1,949 hrs 51 mins
 
-TypeScript                 643 hrs 9 mins  >>>>>>>>-----------------   33.00 %
-Kotlin                     248 hrs 40 mins >>>----------------------   12.76 %
-PHP                        236 hrs 43 mins >>>----------------------   12.15 %
-JavaScript                 185 hrs 40 mins >>-----------------------   09.53 %
-Blade Template             147 hrs 26 mins >>-----------------------   07.57 %
+TypeScript                 643 hrs 12 mins >>>>>>>>-----------------   32.99 %
+Kotlin                     248 hrs 40 mins >>>----------------------   12.75 %
+PHP                        236 hrs 43 mins >>>----------------------   12.14 %
+JavaScript                 185 hrs 45 mins >>-----------------------   09.53 %
+Blade Template             147 hrs 26 mins >>-----------------------   07.56 %
 ```
 
 <!--END_SECTION:waka-->
