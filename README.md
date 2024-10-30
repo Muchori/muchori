@@ -38,5 +38,5 @@ Blade Template             147 hrs 26 mins >>-----------------------   07.56 %
 <img align="left" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 <img align="left" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 
-engage slim decade spray glove inquiry flavor decade donate visa address safe gather belt ticket fix rough whale fury raw candy chest hurt column illness
+
 
